@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CodeQuality" />
+      <artifact name="CodeQuality:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f58a3f2d-67df-43f3-b224-59a35ed0cf02" name="Default Changelist" comment="fix head for data table">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CodeQuality.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spmtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IT16178700/Control/ControlType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IT16178700/Service/ControlTypeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IT17018760/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IT16178700/TypeOfControl/TestTypeOfControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IT17056212/SizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IT17056212/SizeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IT17056212/SizeTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CodeQuality_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/CodeQuality_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/WEB-INF/classes/IT17152938/Contoller/QualityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/WEB-INF/classes/IT17152938/Contoller/QualityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/WEB-INF/classes/IT17152938/Servlet/ServletFileUploard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/WEB-INF/classes/IT17152938/Servlet/ServletFileUploard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CodeQuality_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IT17056212/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IT17056212/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IT17152938/Contoller/QualityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IT17152938/Contoller/QualityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IT17152938/Servlet/ServletFileUploard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IT17152938/Servlet/ServletFileUploard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IT17152938/Contoller/QualityControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IT17152938/Contoller/QualityControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IT17152938/Contoller/QualityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IT17152938/Contoller/QualityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IT17152938/Servlet/ServletFileUploard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IT17152938/Servlet/ServletFileUploard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sachin kumara liyanage &lt;sachinkumaraliyanage@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1P0YiE8ZEJ4tDYOB7zdpi71AT4q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src/main/java/IT17152938/Service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="IT17152938.Contoller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\y3s2\SPM\Assiment01\gitpush\CodeQuality\src\main\java" />
+      <recent name="D:\project\y3s2\SPM\Assiment01\gitpush\CodeQuality\web\js" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/CSS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.53">
+    <configuration name="InheritanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeQuality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IT17018760.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IT17018760" />
+      <option name="MAIN_CLASS_NAME" value="IT17018760.InheritanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeQuality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IT17056212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IT17056212" />
+      <option name="MAIN_CLASS_NAME" value="IT17056212.SizeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SizeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeQuality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IT17056212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IT17056212" />
+      <option name="MAIN_CLASS_NAME" value="IT17056212.SizeTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SizeTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeQuality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IT17056212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IT17056212" />
+      <option name="MAIN_CLASS_NAME" value="IT17056212.SizeTest3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTypeOfControl.TestAndOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeQuality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IT16178700.TypeOfControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IT16178700.TypeOfControl" />
+      <option name="MAIN_CLASS_NAME" value="IT16178700.TypeOfControl.TestTypeOfControl" />
+      <option name="METHOD_NAME" value="TestAndOperator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CodeQuality:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_22_CodeQuality" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="33459" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CodeQuality:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8989/CodeQuality_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CodeQuality:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CodeQuality_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CodeQuality" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="33459" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CodeQuality:war exploded" />
+          <artifact name="CodeQuality" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SizeTest2" />
+      <item itemvalue="JUnit.SizeTest" />
+      <item itemvalue="JUnit.SizeTest3" />
+      <item itemvalue="JUnit.TestTypeOfControl.TestAndOperator" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.53" />
+      <item itemvalue="JUnit.InheritanceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InheritanceTest" />
+        <item itemvalue="JUnit.TestTypeOfControl.TestAndOperator" />
+        <item itemvalue="JUnit.SizeTest2" />
+        <item itemvalue="JUnit.SizeTest3" />
+        <item itemvalue="JUnit.SizeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f58a3f2d-67df-43f3-b224-59a35ed0cf02" name="Default Changelist" comment="" />
+      <created>1565012605187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565012605187</updated>
+      <workItem from="1565012608477" duration="8565000" />
+      <workItem from="1565070886850" duration="15420000" />
+      <workItem from="1565101024618" duration="4644000" />
+      <workItem from="1565105739963" duration="905000" />
+      <workItem from="1565157434598" duration="684000" />
+      <workItem from="1565234765919" duration="59000" />
+      <workItem from="1565329825125" duration="294000" />
+      <workItem from="1565420913279" duration="1738000" />
+      <workItem from="1565436144489" duration="17000" />
+      <workItem from="1565504291098" duration="482000" />
+      <workItem from="1565504793080" duration="1534000" />
+      <workItem from="1565509733451" duration="599000" />
+      <workItem from="1565510644528" duration="1167000" />
+      <workItem from="1565514593342" duration="1250000" />
+      <workItem from="1565670165279" duration="138000" />
+      <workItem from="1567726355299" duration="12587000" />
+      <workItem from="1567776395682" duration="3365000" />
+      <workItem from="1567947559152" duration="303000" />
+      <workItem from="1567948066529" duration="77000" />
+      <workItem from="1567948189072" duration="556000" />
+      <workItem from="1567948760345" duration="621000" />
+      <workItem from="1568352566767" duration="4277000" />
+      <workItem from="1568618531873" duration="697000" />
+      <workItem from="1568653649491" duration="256000" />
+      <workItem from="1568900463148" duration="1519000" />
+      <workItem from="1568902623682" duration="1699000" />
+      <workItem from="1568950964006" duration="6990000" />
+      <workItem from="1568986707121" duration="4767000" />
+      <workItem from="1569046192831" duration="7355000" />
+      <workItem from="1569134315473" duration="1628000" />
+      <workItem from="1569136209364" duration="285000" />
+      <workItem from="1569136644032" duration="1346000" />
+      <workItem from="1569138385798" duration="6000" />
+      <workItem from="1569138531235" duration="73000" />
+    </task>
+    <task id="LOCAL-00001" summary="finsh cnc">
+      <created>1567732256731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567732256731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add junit test">
+      <created>1567743364186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567743364186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix head for data table">
+      <created>1568355260109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568355260109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix head for data table">
+      <created>1568355400813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568355400813</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="finsh cnc" />
+    <MESSAGE value="add junit test" />
+    <MESSAGE value="fix head for data table" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix head for data table" />
+  </component>
+</project>
